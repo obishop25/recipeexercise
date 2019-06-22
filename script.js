@@ -8,5 +8,6 @@ function marinaraSauce(cookName){
     console.log("Add" + oneFourth + "cup water," + two + "cans of crushed tomatoes, and salt and season with black pepper to taste")
     console.log("Cover the pot, bring to a boil, reduce the heat to medium low, and simmer until the suace is heated, about 10 minutes")
     console.log("Stir in " + oneFourth + "cup roughly chopped fresh basil, salt and pepper as needed.")
+    console.log("This is a great recipe. Everyone LOVES IT")
 }
 marinaraSauce("Adam");
